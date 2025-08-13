@@ -19,23 +19,27 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-public class FirstScript : MonoBehaviour
+
+public class simple : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        print("Welcome to Unity");
+        print("Welcome to unity");
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+       
+
     }
 }
+
 ```
 ### Output:
 
+<img width="1918" height="996" alt="image" src="https://github.com/user-attachments/assets/f9d48cd4-886e-46ee-8c4f-c492c2c78fc9" />
 
 
 ### Result:
