@@ -81,8 +81,8 @@ public class fleeScript : MonoBehaviour
 }
 ```
 ### Output:
+![WhatsApp Image 2025-08-26 at 10 45 43_cfce5d16](https://github.com/user-attachments/assets/ddab9f1a-ddb7-4119-875f-87ddd67d6262)
 
-<img width="896" height="829" alt="image" src="https://github.com/user-attachments/assets/e5c0a757-3122-4e5d-8d1f-225cbae39dfb" />
 
 ### Result:
 Thus the simple seek behavior was implemented successfully.
