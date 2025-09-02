@@ -52,9 +52,7 @@ public class Jump : MonoBehaviour
 ```
 ### Output:
 
-
-![Uploading WhatsApp Image 2025-09-02 at 14.43.53_9207cc6a.jpg…]()
-
+![WhatsApp Image 2025-09-02 at 14 43 53_daccc116](https://github.com/user-attachments/assets/6a9cff65-84ae-40ef-bf17-63ff9d23134c)
 
 ### Result:
 Thus the simple jumping behavior was implemented successfully.
